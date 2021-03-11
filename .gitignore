@@ -1,1 +1,4 @@
 Lesson1/Slides/
+*.hex
+*.lbl
+*.lst
